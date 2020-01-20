@@ -17,3 +17,8 @@ Learn about A* Search Algorithm [here](https://www.youtube.com/watch?v=ySN5Wnu88
     ![40 intersections map](maps/map_40.png)
 
     
+# Output on 40 intersection map
+    
+  `show_map(map_40, start=5, goal=34, path=[5,16,37,12,34])`
+    
+ ![output](sample_output.png)
